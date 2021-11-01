@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [Redshift数据仓库架构概述](README.md)
 
